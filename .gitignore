@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.svn
+.idea
+.project
+npm-debug.log
+debug.log
+gaia-private.json
+target/
+evidence/
